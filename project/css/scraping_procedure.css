@@ -1,0 +1,82 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bg {
+    background-size: cover;
+    margin: 20px auto;
+    /* background-color: rgb(7, 7, 73); */
+    color: white;
+    padding-top: 1px;
+    padding-bottom: 3px;
+}
+
+.heading {
+    font-size: 40pt;
+    margin: 40px 10px;
+    text-transform: capitalize;
+    text-shadow: 0 0 10px black;
+}
+
+
+/* .font{
+    font-size: 14pt;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+} */
+
+.footer {
+    min-height: 200px;
+    color: white;
+}
+
+.side_bar_form {
+    background-color: rgba(144, 144, 150, 0.589);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+    box-shadow: -2px -2px 5px #000000;
+}
+
+.form_head {
+    font-weight: bold;
+    background-color: rgb(105, 99, 99);
+    color: blanchedalmond;
+    text-align: center;
+    text-shadow: 0 0 10px black;
+    width: 200px;
+    margin-left: 60px;
+    margin-bottom: 20px;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.form_blanks {
+    width: 300px;
+    box-shadow: 0 3px 0 black;
+}
+
+.side-bar-head {
+    margin: 20px 0 30px 0px;
+    padding-left: 10px;
+    background-color: rgb(43, 43, 46);
+    color: white;
+    height: 40px;
+    width: 400px;
+    border-radius: 2%;
+    box-shadow: 0 10px 10px black;
+}
+
+.side-bar-list {
+    background-color: rgb(158, 156, 156);
+    margin-top: 20px;
+    margin-left: -20px;
+    padding-left: 10px;
+    font-size: 12pt;
+    color: white;
+    width: 300px;
+    box-shadow: 0 5px 10px black;
+    text-shadow: 0 0 10px black;
+}
